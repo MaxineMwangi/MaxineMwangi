@@ -62,8 +62,8 @@ I'm a final-year Computer Science student at Strathmore University, passionate a
 
 ## Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/maxine-mwangi](https://linkedin.com/in/maxine-mwangi) *(update with your actual URL)*
-- 📧 **Email:** *(add your professional email here)*
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/maxine-m-b2b075266/) *(update with your actual URL)*
+- 📧 **Email:** *(maxinemerliah@gmail.com)*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
