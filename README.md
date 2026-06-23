@@ -62,7 +62,7 @@ I'm a final-year Computer Science student at Strathmore University, passionate a
 
 ## Connect With Me
 
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/maxine-m-b2b075266/) *(update with your actual URL)*
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/maxine-m-b2b075266/) 
 - 📧 **Email:** *(maxinemerliah@gmail.com)*
 
 <p align="center">
