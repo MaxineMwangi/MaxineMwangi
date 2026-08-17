@@ -60,9 +60,9 @@ I'm a final-year Computer Science student at Strathmore University. I like figur
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxineMwangi&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0f0c29&title_color=43b89c&icon_color=43b89c&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MaxineMwangi&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0f0c29&title_color=43b89c&icon_color=43b89c&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxineMwangi&layout=compact&hide_border=true&count_private=true&theme=tokyonight&bg_color=0f0c29&title_color=43b89c&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaxineMwangi&layout=compact&hide_border=true&count_private=true&theme=tokyonight&bg_color=0f0c29&title_color=43b89c&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
