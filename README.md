@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Maxine%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20Full-Stack&descAlignY=58&descSize=16" />
 </p>
 
-I'm a final-year Computer Science student at Strathmore University, passionate about building secure, reliable systems — from the frontend all the way down to the network layer. I enjoy exploring how systems work, how they break, and how to design them so they don't. Whether it's crafting full-stack applications or diving into cybersecurity challenges, I'm driven by problems that sit at the intersection of engineering rigour and real-world impact.
+I'm a final-year Computer Science student at Strathmore University. I like figuring out how systems work, how they break, and how to build them so they don't. Most of what I do sits somewhere between full-stack development and security, whether that's shipping an app end to end or poking at how it could fail.
 
-- 🔭 **Current Focus:** Building **Submiq** — an AI-powered onboarding verification platform that evaluates submission quality using NLP, AI-content detection, and cross-field consistency checks
+- 🔭 **Current Focus:** Building **Submiq**, an AI-powered onboarding verification platform that evaluates submission quality using NLP, AI-content detection, and cross-field consistency checks
 - 🌱 **Learning & Exploration:** Deep learning architectures (LSTMs, text classification), advanced SQL, and applied cryptography
 - ⚡ **Core Interests:** Cybersecurity & secure system design · Full-stack development · Machine learning & NLP · Network security · Database engineering
 
@@ -78,7 +78,7 @@ I'm a final-year Computer Science student at Strathmore University, passionate a
 ## Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/maxine-m-b2b075266](https://www.linkedin.com/in/maxine-m-b2b075266/)
-- 📧 **Email:** maxinemerliah@gmail.com
+- 📧 **Email:** mxnmwangi@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
